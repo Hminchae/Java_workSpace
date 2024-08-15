@@ -11,6 +11,6 @@ public class While2_3 {
             sum += i;
             System.out.println("i=" + i + " sum=" + sum);
             i++;
-        };
+        }
     }
 }
